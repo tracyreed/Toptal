@@ -21,3 +21,9 @@ If you would like me to do this level of work for you, get in touch.
 
 - Tracy Reed
   treed@tracyreed.org
+
+
+{::comment}
+The original source from which the pdf presented here is derived from  for
+the Toptal Secure Web Application design Project Design doc is a Google Doc in my tracy.reed@gmail.com account
+{:/comment}
