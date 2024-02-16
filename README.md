@@ -20,7 +20,8 @@ This was not a work for hire and is owned entirely by me, Tracy Reed.
 If you would like me to do this level of work for you, get in touch.
 
 - Tracy Reed
-  treed@tracyreed.org
+
+  <treed@tracyreed.org>
 
 
 <!-- 
