@@ -1,8 +1,10 @@
 # Toptal
 
-Although I prefer to work directly with clients/employers, I am in the Toptal
-talent network. They claim to select for the top 3% in the field and I believe
+Although I prefer to work directly with clients/employers, I am in the [Toptal
+talent network](https://toptal.com). They claim to select for the top 3% in the field and I believe
 they are effective in that goal.  Thus their name derived from "top talent".
+
+[You may see my Toptal public profile here.](https://www.toptal.com/resume/tracy-reed-cissp-rhce-atp)
 
 To be accepted into Toptal I had to:
 
