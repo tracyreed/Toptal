@@ -1,5 +1,4 @@
 # Toptal
-Toptal
 
 Although I prefer to work directly with clients/employers, I am in the Toptal
 talent network. They claim to select for the top 3% in the field and I believe
